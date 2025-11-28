@@ -1,0 +1,1 @@
+import a from"./DTQ29lMc.js";import{e as n,h as r,l as s,w as p,o as m}from"#entry";const f=n({__name:"MdContent",props:{pageData:{}},setup(t){return(c,e)=>{const o=a;return t.pageData?(m(),r(o,{key:0,class:"prose dark:prose-invert m-auto",path:t.pageData},{"not-found":p(()=>[...e[0]||(e[0]=[])]),_:1},8,["path"])):s("",!0)}}});export{f as _};
